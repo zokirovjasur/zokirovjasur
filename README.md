@@ -2,7 +2,7 @@
 
 Hello! 👋<br>
 
-<p>I am Jasur Zokirov, a Full-Stack Developer 🚀. Since 2022, I have been continuously honing my skills and contributing to impactful IT projects.📍<br>
+<p>I am Jasur Zokirov, a Full-Stack Developer 🚀.<br> Since 2022, I have been continuously honing my skills and contributing to impactful IT projects.📍<br>
 
 📇Highlights:<br>
 💻 Backend: Proficient in NodeJS, NestJS PostgreSQL, and MongoDB. MySQL<br>
