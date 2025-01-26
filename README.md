@@ -2,21 +2,14 @@
 
 Hello! 👋<br>
 
-<p>I am Jasur Zokirov, a passionate developer dedicated to crafting efficient and innovative solutions. 🚀 <br>Since 2022-2023, I’ve been honing my skills and contributing to impactful IT projects.<br>
+<p>I am Jasur Zokirov, a Full-Stack Developer 🚀. Since 2022, I have been continuously honing my skills and contributing to impactful IT projects.📍<br>
 
 📇Highlights:<br>
 💻 Backend: Proficient in NodeJS, NestJS PostgreSQL, and MongoDB. MySQL<br>
 ⚛️ Frontend: Skilled in JavaScript, TypeScript and ReactJS, NextJS.<br>
 🌐 Full-Stack: Bridging technologies for seamless digital experiences.<br>
 ⚙️ Problem Solver: Tackling complex challenges with creative solutions.<br>
-📊 Database Management: Designing and managing schemas effectively.<br>
-
-📰Philosophy:<br>
-🔍 Write clean, maintainable, and efficient code.<br>
-📚 Embrace lifelong learning to stay ahead.<br>
-🤝 Collaborate to foster shared success.<br>
-
-Excited to connect and collaborate on innovative ideas—let’s build something amazing together! 🚀<p><br>
+📊 Database Management: Designing and managing schemas effectively.🚀<p><br>
 
 ## 🌐 Socials:
 
