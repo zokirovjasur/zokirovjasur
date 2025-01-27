@@ -32,6 +32,8 @@ Hello! 👋<br>
 <br>
 
 # 📊 GitHub Stats:
+![Jasur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zokirovjasur&theme=dark&hide_border=true&include_all_commits=true&count_private=false)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zokirovjasur&theme=dark&hide_border=true&include_all_commits=true&count_private=false&langs_count=10&layout=compact)
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=zokirovjasur&theme=github-dark&hide_border=true)
 
 
@@ -42,7 +44,7 @@ Hello! 👋<br>
 
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+
 
 
 <picture>
