@@ -15,7 +15,8 @@ Hello! 👋<br>
 ## 🌐 Socials:
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/share/1ARXV35Kvj/?mibextid=wwXIfr) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/zakirovv1_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://uz.linkedin.com/in/zokirov-jasurbek-024943337) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@https://www.tiktok.com/@zakiroov1_?_r=1&_d=e75f98fhidb9l5&sec_uid=MS4wLjABAAAAcXzIomjzN0j6891y-JgpBqvKEfsZ52Vgpdnjh5HBf73AZEQDJB10g9j1uGoHpUA6&share_author_id=7113248667247526913&sharer_language=ru&source=h5_m&u_code=e2dcej0f2lijm4&ug_btm=b8727,b0&sec_user_id=MS4wLjABAAAAcXzIomjzN0j6891y-JgpBqvKEfsZ52Vgpdnjh5HBf73AZEQDJB10g9j1uGoHpUA6&utm_source=copy&social_share_type=5&utm_campaign=client_share&utm_medium=ios&tt_from=copy&user_id=7113248667247526913&enable_checksum=1&share_link_id=6C914C32-FA97-4F88-AAFF-43F4A95ED8AF&share_app_id=1233) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/jasurbek768078) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://youtube.com/@zokirovjasurbek?si=hQoaFLVVdHlNOcxh) [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://my-portfolio-phi-inky-14.vercel.app)
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="600">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
 
 
 # 💻 Tech Stack:
@@ -32,7 +33,7 @@ Hello! 👋<br>
 # 📊 GitHub Stats:
 
 ![Jasur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zokirovjasur&theme=dark&hide_border=true&include_all_commits=true&count_private=false)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zokirovjasur&theme=dark&hide_border=true&include_all_commits=true&count_private=false&langs_count=10)
+![Top Languages](https://github-readme-stats.vercel.app/api/toplangs/username=zokirovjasur&theme=dark&hide_border=true&include_all_commits=true&count_private=false&langs_count=10&layout=compact)
 
 
 
