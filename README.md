@@ -2,18 +2,14 @@
 
 Hello! 👋<br>
 
-# Jasur Zokirov
+<p>I am Jasur Zokirov, a Full-Stack Developer 🚀.<br> Since 2022, I have been continuously honing my skills and contributing to impactful IT projects.📍<br>
 
-🚀 Men Jasur Zokirov, Full-Stack Dasturchiman.
-
-2022-yildan buyon o‘z mahoratimni oshirib, ta'sirchan IT loyihalarida faol ishtirok etib kelmoqdaman. 📍
-
-## 📇 Asosiy yo'nalishlar:
-- 💻 **Backend**: NodeJS, NestJS, PostgreSQL, MongoDB va MySQL bo‘yicha tajribaga egaman.
-- ⚛️ **Frontend**: JavaScript, TypeScript, ReactJS va NextJS bilan ishlashni bilaman.
-- 🌐 **Full-Stack**: Texnologiyalarni birlashtirib, mukammal raqamli tajribalar yarataman.
-- ⚙️ **Muammo yechuvchi**: Murakkab muammolarni ijodiy yechimlar bilan hal qilaman.
-- 📊 **Ma'lumotlar bazasi boshqaruvi**: Tuzilmalarni samarali loyihalash va boshqarish bo‘yicha tajribam bor. 🚀
+📇Highlights:<br>
+- 💻 Backend: Proficient in NodeJS, NestJS PostgreSQL, and MongoDB. MySQL<br>
+- ⚛️ Frontend: Skilled in JavaScript, TypeScript and ReactJS, NextJS.<br>
+- 🌐 Full-Stack: Bridging technologies for seamless digital experiences.<br>
+- ⚙️ Problem Solver: Tackling complex challenges with creative solutions.<br>
+- 📊 Database Management: Designing and managing schemas effectively.🚀<p><br>
 
 
 ## 🌐 Socials:
@@ -36,7 +32,6 @@ Hello! 👋<br>
 # 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=zokirovjasur&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=zokirovjasur&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=zokirovjasur&theme=dark&hide_border=true)
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 
