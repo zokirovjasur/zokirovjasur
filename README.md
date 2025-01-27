@@ -32,7 +32,7 @@ Hello! 👋<br>
 <br>
 
 # 📊 GitHub Stats:
-![Jasur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zokirovjasur&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<t>
+![Jasur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zokirovjasur&theme=dark&hide_border=true&include_all_commits=true&count_private=false)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zokirovjasur&theme=dark&hide_border=true&include_all_commits=true&count_private=false&langs_count=10&layout=compact)
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=zokirovjasur&theme=github-dark&hide_border=true)
 
